@@ -1,0 +1,3 @@
+Hobit;Tolkien;Anglie;Fantasy;1937
+Máj;K.H.Mácha;Èesko;Epická poezie;1836
+Mein Kampf;Adolf Hitler;Nìmecko;Autobiografie;1925

@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\bin\Debug\ukol2txt.exe.config
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\bin\Debug\ukol2txt.exe
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\bin\Debug\ukol2txt.pdb
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\obj\Debug\ukol2txt.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\obj\Debug\ukol2txt.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\obj\Debug\ukol2txt.Form1.resources
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\obj\Debug\ukol2txt.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\obj\Debug\ukol2txt.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\obj\Debug\ukol2txt.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\obj\Debug\ukol2txt.exe
+C:\Users\marsy\Source\Repos\ukol2txt\ukol2txt\obj\Debug\ukol2txt.pdb
